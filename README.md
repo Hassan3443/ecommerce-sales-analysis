@@ -66,6 +66,16 @@ The dataset contains transactional sales data including:
 - Horizontal bar chart for better readability
 
 ---
+## 📊 Sample Visualizations
+
+### Top Categories
+![Top Categories](Figure_2.png)
+
+### Monthly Sales Trend
+![Monthly Trend](Figure_3.png)
+
+### Top States
+![Top States](Figure_1.png)
 
 ## 📌 Key Insights
 - A small number of categories generate the majority of revenue
