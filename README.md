@@ -1,4 +1,4 @@
-# 📊 Customer & Sales Analysis
+# 📊 E-commerce Sales Analysis
 
 ## 📌 Overview
 This project analyzes customer behavior and sales data to extract meaningful business insights.
